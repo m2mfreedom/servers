@@ -168,3 +168,5 @@ If you find MCP servers useful, please consider starring the repository and cont
 ---
 
 Managed by Anthropic, but built together with the community. The Model Context Protocol is open source and we encourage everyone to contribute their own servers and improvements!
+
+- **[M2M Market — Freedom Engine](https://github.com/m2mfreedom/freedom-m2m-mcp-server)** - Autonomous HTTP 402 M2M API Gateway & Task Clearinghouse (L402 Bitcoin Lightning & x402 Base/Solana USDC) providing Stealth Anti-Bot Web Unlocking, Structured Table & Financial Extraction, Isolated AST Python Math Sandbox, Clean Markdown Scraping, and Persistent Agent Memory Vault (100/100 Verified SLA).
